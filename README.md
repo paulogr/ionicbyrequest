@@ -1,3 +1,0 @@
-# ionicbyrequest
-
-project website
