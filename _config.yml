@@ -11,7 +11,7 @@ title:            Ionic by Request
 tagline:          'Developing mobile application with technologies you already know and love.'
 description:      'Developing mobile application with technologies you already know and love. <br>Made by <a href="https://twitter.com/paulogr" target="_blank">@paulogr</a>'
 url:              http://www.ionicbyrequest.com
-baseurl:          /
+baseurl:          /ionicbyrequest
 
 author:
   name:           'Paulo Rodrigues'
