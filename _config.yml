@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Ionic by Request
+tagline:          'Developing mobile application with technologies you already know and love.'
+description:      'Developing mobile application with technologies you already know and love. <br>Made by <a href="https://twitter.com/paulogr" target="_blank">@paulogr</a>'
+url:              http://www.ionicbyrequest.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Paulo Rodrigues'
+  url:            https://twitter.com/paulogr
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/paulogr
