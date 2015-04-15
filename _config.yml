@@ -9,13 +9,13 @@ relative_permalinks: true
 # Setup
 title:            Ionic by Request
 tagline:          'Developing mobile application with technologies you already know and love.'
-description:      'Developing mobile application with technologies you already know and love. <br>Made by <a href="https://twitter.com/paulogr" target="_blank">@paulogr</a>'
+description:      'Developing mobile application with technologies you already know and love. <br>Made by <a href="https://twitter.com/paulo_gr" target="_blank">@paulo_gr</a>'
 url:              http://www.ionicbyrequest.com
 baseurl:          /
 
 author:
   name:           'Paulo Rodrigues'
-  url:            https://twitter.com/paulogr
+  url:            https://twitter.com/paulo_gr
 
 paginate:         5
 
