@@ -1,0 +1,32 @@
+
+.tweet-this-post {
+  border: 2px solid #59adeb;
+  background-color: #59adeb;
+  color: #fff !important;
+  padding: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1.0em;
+}
+
+.tweet-this-post:hover{
+    background-color:#fff;
+    text-decoration:none;
+    color:#59adeb !important;
+}
+
+.tweet-this-blockquote {
+  font-size: 1em;
+  background-color: rgb(250,250,250);
+  padding: 1em;
+  color: rgb(90,90,90);
+  font-weight: bold;
+  line-height: 1.5;
+  border: 1px solid rgb(240,240,240);
+}
+
+.no-hover {
+  text-decoration:none !important;
+}

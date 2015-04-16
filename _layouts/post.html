@@ -9,6 +9,14 @@ layout: default
 </div>
 
 
+<center> 
+<a class="no-hover" target="_blank" href="//twitter.com/intent/tweet?text={{ page.title | url_encode }}+/+@ionicbyrequest+{{site.url}}{{page.url | url_encode }}">
+  <blockquote class="tweet-this-blockquote"> "{{page.title}}" </blockquote>
+</a> 
+<a target="_blank" href="//twitter.com/intent/tweet?text={{ page.title | url_encode }}+/+@ionicbyrequest+{{site.url}}{{page.url | url_encode }}" class="tweet-this-post"><i class="fa fa-twitter"></i>&nbsp;Tweet this
+</a> 
+</center>
+
 {% if site.related_posts.any? %}
 <div class="related">
   <h2>Related Posts</h2>
